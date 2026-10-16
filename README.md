@@ -10,7 +10,7 @@ Through my company, **JA Developers**, I've delivered complete systems for real 
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 ### Excursions Platform
 Full-stack platform for selling bus trips to festivals, concerts, Carnival and New Year's events — with checkout, payments, a customer area and a complete admin dashboard.
