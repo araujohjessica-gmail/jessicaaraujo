@@ -29,7 +29,22 @@ Full-stack platform for selling bus trips to festivals, concerts, Carnival and N
 > Try the admin panel: open the demo, go to `/#/admin/login` and sign in with any email and password.
 
 ---
+### Online Scheduling System
+Booking platform for independent professionals (clinics, therapists, tutors): public booking page, passwordless client area, professional dashboard and full financial control.
 
+**[🔗 Live Demo](https://agenda-eta-three.vercel.app)** · **[Frontend](https://github.com/araujohjessica/agenda)** · **[API](https://github.com/araujohjessica/agenda-api)**
+
+- 📅 Availability periods that generate time slots automatically
+- 🔒 Business rules enforced server-side: minimum notice, cancellation window, no double booking
+- ✉️ Passwordless login via email code, email notifications and `.ics` calendar files
+- 💰 Finance dashboard: revenue, receivables, expenses, 12-month trends and CSV export
+- ✅ **110 end-to-end tests** running on GitHub Actions
+
+`React 19` `TypeScript` `Tailwind CSS` `Node.js` `Express` `SQLite` `JWT`
+
+> Demo logins — professional: `profissional@exemplo.com` (any password) · client: `cliente@exemplo.com` (any 6-digit code)
+
+---
 ## 🛠️ Tech Stack
 
 **Frontend**
